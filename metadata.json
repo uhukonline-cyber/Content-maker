@@ -1,0 +1,6 @@
+{
+  "name": "ViralCraft",
+  "description": "Generator konten viral dan hook media sosial dengan berbagai gaya bahasa, editor interaktif, copy paste, dan direct share.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
